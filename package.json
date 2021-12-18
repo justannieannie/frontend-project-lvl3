@@ -1,0 +1,28 @@
+{
+  "name": "frontend-project-lvl3",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/justannieannie/frontend-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/justannieannie/frontend-project-lvl3/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/ae8d19e65e327ed43919/maintainability)](https://codeclimate.com/github/justannieannie/frontend-project-lvl3/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/ae8d19e65e327ed43919/test_coverage)](https://codeclimate.com/github/justannieannie/frontend-project-lvl3/test_coverage)",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justannieannie/frontend-project-lvl3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justannieannie/frontend-project-lvl3/issues"
+  },
+  "homepage": "https://github.com/justannieannie/frontend-project-lvl3#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
